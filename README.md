@@ -1,0 +1,1 @@
+The Hussani International School website is designed using HTML and CSS to provide a clean, responsive, and informative platform for students and parents. It showcases essential details like admissions, academics, and contact information with a user-friendly layout and modern design.
